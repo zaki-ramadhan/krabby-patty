@@ -1,2 +1,2 @@
 # krabby-patty
-Inisiasi
+Inisiasi temporary repository
